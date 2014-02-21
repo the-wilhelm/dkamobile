@@ -1,0 +1,40 @@
+body{
+    font-family:'Helvetica Neue';   
+}
+
+.ui-content{
+    text-align:center;   
+}
+
+.services, .services .ui-panel-wrapper{
+    background:#fea304 !important;   
+}
+
+.about, .about .ui-panel-wrapper{
+    background:#fff !important;
+    color:#444;
+}
+
+.about h2, .about h4{
+    font-weight:300;
+    text-shadow:none;
+}
+
+.bigpic, .bigpic .ui-panel-wrapper{
+    background:url('../images/parallax-image-omaha2.jpg') no-repeat center center fixed !important; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.welcome{
+    text-align:center;
+    margin-top:5%;
+    font-weight:300;
+}
+
+.welcome h2{
+    font-weight:300;
+    font-size:30px;
+}
